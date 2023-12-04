@@ -1,0 +1,21 @@
+.card_login {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  min-height: 98vh;
+}
+.ancho_card {
+  width: 400px;
+}
+.ancho_card label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+.ancho_card input {
+  margin-bottom: 10px;
+}
+/* html { */
+  /* background: no-repeat; */
+  /* background: linear-gradient(to bottom, rgb(49, 48, 77), rgb(182, 187, 196)); */
+/* } */
